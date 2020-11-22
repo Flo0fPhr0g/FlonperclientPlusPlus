@@ -1,6 +1,8 @@
 # FlonperclientPlusPlus
 Flonp is ALWAYS on top!
 
+Join the Flonperclient++ discord here: <Coming Soon!>
+
 
 # Why:
 
@@ -14,6 +16,6 @@ JeffPog: For name
 
 Travis: For Wurst+2 Framework
 
-Lem0n_Shark: For To Do And General Help
+Lem0n_Shark: For To Do, and Coding
 
-# As of: 11/21/20
+# As of: 11/22/20
