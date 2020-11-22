@@ -15,6 +15,6 @@ JeffPog: For name
 
 Travis: For Wurst+2 Framework
 
-Lem0n_Shark: For To Do And Genral Help
+Lem0n_Shark: For To Do And General Help
 
 # As of: 11/21/20
