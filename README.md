@@ -1,7 +1,6 @@
 # FlonperclientPlusPlus
 Flonp is ALWAYS on top!
 
-# As of now: only certain members of the dev team can see this repo, will be updated soon
 
 # Why:
 
